@@ -1,0 +1,66 @@
+body {
+    margin: 15px;
+    background-color: #22a1c74b;
+    font-family: 'Lexend', sans-serif;
+}
+/* *** */
+header {
+    color: #325288;
+    text-align: center;
+}
+/* *** */
+#baslik-1 {
+    color:green;
+}
+/* *** */
+section {
+    text-align: center;
+}
+
+/* *** */
+p {
+    color: #1c4b92;
+}
+/* *** */
+nav a {
+    text-decoration: none;
+}
+/* *** */
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+/* *** */
+h2 {
+    color: #0e667e;
+}
+/* *** */
+h3 {
+    color: #321f9b;
+}
+/* *** */
+ul li {
+    list-style-position: inside;
+    text-align: center;
+}
+/* *** */
+ol {
+    
+    display: table;
+    margin: 0 auto;
+}
+/* *** */
+ol li {
+    margin: 65px auto;
+    text-align: center;
+}
+/* *** */
+figure {
+    padding: 5px;
+}
+/* *** */
+footer {
+    text-align: center;
+}
+
